@@ -1,3 +1,7 @@
+#Chavez Castañeda Pablo
+#Rivas Ortega Montserrat
+#4BM1 FIA 4to Semestre IIA
+
 import tkinter as tk
 from tkinter import messagebox
 
